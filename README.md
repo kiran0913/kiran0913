@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran Kowtarapu</h1>
-<h3 align="center">A passionate Full-Stack developer from South Carolina</h3>
+<h3 align="center">A passionate developer from South Carolina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran0913&label=Profile%20views&color=0e75b6&style=flat" alt="kiran0913" /> </p>
 
